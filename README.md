@@ -4,7 +4,7 @@
 
 Código: 
 
-´´´ cpp
+´´´
 // Incluindo as bibliotecas que utilizaremos
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
