@@ -2,4 +2,10 @@
 
 ## Aluno: Fernando Soares de Oliveira
 
-O código abrange tudo que foi pedido 
+Modo dia:
+
+<div align="center">
+  <sub>Figura 1 - Modo dia</sub><br>
+  <img src="./prints/day_mode" width="600px" height="auto"><br>
+  <sup>Fonte: Material produzido pelo Fernando (2024)</sup>
+</div>
