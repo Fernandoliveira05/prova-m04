@@ -17,3 +17,9 @@ Modo noite:
   <img src="./prints/night_mode.png" width="600px" height="auto"><br>
   <sup>Fonte: Material produzido pelo Fernando (2024)</sup>
 </div>
+
+
+## Código
+
+O código foi inteiramente reformulado para português, incluindo comentários e variáveis; 
+A internet foi um grande problema inicialmente, mas depois descobri que o problema era principalmente a biblioteca que deveria ser incluída no Wokwi; 
